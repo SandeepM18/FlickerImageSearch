@@ -56,4 +56,3 @@ In the Flickr Image Search app, displaying image descriptions fetched from Flick
 
 By 
 Sandeep Mekala
-![image](https://github.com/SandeepM18/FlickerImageSearch/assets/173959773/e7b0be83-946f-403c-ba0e-4dc127deccbd)
